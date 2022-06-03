@@ -1,14 +1,14 @@
 const textConfig = {
   text1: "Hii Vợ tương lai!",
-  text2: "Tớ có điều này muốn nói hỏi cậu.",
+  text2: "Tớ có điều này muốn hỏi cậu.",
   text3: "Trang yêu Tuyên có phải không nào ",
   text4: "Nếu cậu không trả lời mà thoát ra tức là muốn làm vợ tớ đó nha -.-",
   text5: "Cậu mơ à???",
   text6: "Yêu ơi là yêuu <3",
   text7: " Nói lí do cậu thích tớ đi hihi",
   text8: "Gửi cho tớ <3",
-  text9: "Vì cậu đẹp chai vll",
-  text10: "Tớ biết mà ^^ Yêu cậu 3.000",
+  text9: "Vì cậu luôn ở bên tớ :>",
+  text10: "Tớ biết mà ^^ Yêu cậu 3.000 <3",
   text11:
     "Còn chờ gì nữa mà không nhắn tin cho tớ đi nàoo",
   text12: "Okii luônn <3",
